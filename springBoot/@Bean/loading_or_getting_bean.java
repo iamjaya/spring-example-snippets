@@ -6,5 +6,6 @@ NonVeg nv= (NonVeg)ctx.getBean("getNonVeg");
 System.out.print(nv.itemName);
 
 //getting bean with custom name of @bean method
+// nvbean is the custom name for the bean method
 NonVeg nv1= (NonVeg)ctx.getBean("nvbean");
 System.out.print(nv1.itemName);
