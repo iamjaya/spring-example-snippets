@@ -1,5 +1,5 @@
 
-<!-- This is the only dependency to add in spring boot project/application -->
+<!-- This is the  dependency to add in spring boot project/application (web application) where as in Spring Framework we need add two dependencies.-->
 <!-- This dependency will load the required libraries to develop spring web applications -->
 <!-- this spring boot started will add web and webmvc dependencies of spring framework -->
 <!-- in the next tab you can see the dependency code for spring framework without spring boot -->
