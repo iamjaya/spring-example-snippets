@@ -54,7 +54,7 @@ System.out.println(nv1.itemName); // here we are printing value of itemName for 
 ********************************
 // output
 ********************************
-
+NV Bean initiated
 NV Bean initiated
 chiken burger --- from the line ***1***
 chiken burger --- there is a changes in the value of itemName for object nv1, you can see that in the above lines of code we donot change the value of itemName for nv1, but we changed for nv object

@@ -48,7 +48,7 @@ System.out.println(nv1.itemName); // here we are printing value of itemName for 
 ********************************
 // output
 ********************************
-
+NV Bean initiated
 NV Bean initiated
 chiken burger --- from the line ***1***
-chiken samosa --- this is value of itemName for object nv1
+Chicken Samosa --- this is value of itemName for object nv1
