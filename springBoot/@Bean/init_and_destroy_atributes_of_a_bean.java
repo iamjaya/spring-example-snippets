@@ -7,7 +7,7 @@ return new NonVeg();
 
 
 
-// We must create the about two methods menuItems() and closingMessage() in the class getNonVeg
+// We must create the about two methods menuItems() and closingMessage() in the class NonVeg
 
 // This is an initMethod
 public void menuItems() {
