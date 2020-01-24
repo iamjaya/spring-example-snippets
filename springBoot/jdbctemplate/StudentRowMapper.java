@@ -1,4 +1,4 @@
-public StudentRowMapper implements RowMapper<Student>
+public class StudentRowMapper implements RowMapper<Student>
 {
 @Override
 
